@@ -1,1 +1,2 @@
 # favorite-film
+Into the Wild is a 2007 American biographical adventure drama film written, co-produced, and directed by Sean Penn. It is an adaptation of the 1996 non-fiction book of the same name written by Jon Krakauer and tells the story of Christopher McCandless ("Alexander Supertramp"), a man who hiked across North America into the Alaskan wilderness in the early 1990s. 
